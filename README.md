@@ -1,2 +1,0 @@
-# pablosblog.github.io
-blog
